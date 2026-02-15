@@ -41,9 +41,6 @@ The game starts with a login screen where players enter their username. Player d
 <img width="1353" height="600" alt="image" src="https://github.com/user-attachments/assets/53edea68-bcc7-43af-899e-fa3246d02983" />
 
 
-###  Game Over / HUD
-<img width="1362" height="623" alt="image" src="https://github.com/user-attachments/assets/520bb45e-b1d6-4a13-81e7-fc36e37946e0" />
-
 
 ##  Deployment
 This project is deployed using **GitHub Pages** and can be hosted easily since it is a fully static application.
