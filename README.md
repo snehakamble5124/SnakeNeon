@@ -7,9 +7,6 @@ The game starts with a login screen where players enter their username. Player d
 ---
 
 
-
----
-
 ##  Features
 - Neon arcade-style UI with glowing effects  
 - Classic Snake gameplay with smooth controls  
