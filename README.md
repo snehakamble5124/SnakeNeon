@@ -5,6 +5,8 @@ SnakeNeon is a browser-based arcade Snake game built using **HTML, CSS, and vani
 The game starts with a login screen where players enter their username. Player data such as the current user and high score is stored using **LocalStorage**, allowing progress to persist across sessions without any backend. The main game arena is built using **CSS Grid**, while JavaScript handles movement, collision detection, score updates, and sound effects.
 
 ---
+## Live Demo
+[Play SnakeNeon Game](https://snehakamble5124.github.io/SnakeNeon/)
 
 
 ##  Features
@@ -28,27 +30,6 @@ The game starts with a login screen where players enter their username. Player d
 - **Arrow Keys** – Move the snake  
 - Eat food to grow and increase score  
 - Avoid walls and self-collision  
-
----
-
-##  Screenshots
-
-### 🔹 Login Screen
-<img width="1351" height="585" alt="image" src="https://github.com/user-attachments/assets/29bb3a35-7c46-419e-9112-a562d203d425" />
-
-
-###  Gameplay
-<img width="1353" height="600" alt="image" src="https://github.com/user-attachments/assets/53edea68-bcc7-43af-899e-fa3246d02983" />
-
-
-
-##  Deployment
-This project is deployed using **GitHub Pages** and can be hosted easily since it is a fully static application.
-
-To deploy:
-1. Ensure `index.html` exists in the root directory
-2. Push the project to GitHub
-3. Enable GitHub Pages from repository settings
 
 ---
 
