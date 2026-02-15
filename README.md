@@ -6,9 +6,7 @@ The game starts with a login screen where players enter their username. Player d
 
 ---
 
-##  Live Demo
- **Play here:**  
-https://susmitasahu365.github.io/SNAKENEON/
+
 
 ---
 
